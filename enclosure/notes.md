@@ -1,14 +1,14 @@
 # Enclosure Notes
 ## Magic Wand
-![Final Enclosure](final-enclosure-images/assets/wand_final.png)
+![Final Enclosure](final-enclosure-images/assets/wand_final.png){width=300px}
 ## Hardware and Connection
-![lofi](final-enclosure-images/assets/hardware1.png)
-![lofi](final-enclosure-images/assets/hardware2.png)
+![lofi](final-enclosure-images/assets/hardware1.png){width=300px}
+![lofi](final-enclosure-images/assets/hardware2.png){width=300px}
 ## Materials
 - The enclosure is 3D printed using PLA plastic for its balance of strength, light weight, and ease of printing.After 3D printing, the enclosure is sanded, primed, and painted with acrylic spray paint for a smooth and durable finish.
-![lofi](final-enclosure-images/assets/wand_unpainted.png)
-![Painting](final-enclosure-images/assets/wand_painting.png)
-![Painted](final-enclosure-images/assets/wand_button.png)
+![lofi](final-enclosure-images/assets/wand_unpainted.png){width=300px}
+![Painting](final-enclosure-images/assets/wand_painting.png){width=300px}
+![Painted](final-enclosure-images/assets/wand_button.png){width=300px}
 
 ## Design Decisions
 - The enclosure is designed to fit the ESP32 board, MPU6050 sensor, button, and RGB LED snugly, minimizing movement and protecting the electronics.
