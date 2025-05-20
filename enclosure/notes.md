@@ -1,9 +1,9 @@
 # Enclosure Notes
 ## Magic Wand
-<img src="final-enclosure-images/assets/wand_final.png" width="300" alt="Final Enclosure" />
+![Final Enclosure](final-enclosure-images/assets/wand_final.png)
 ## Hardware and Connection
-<img src="final-enclosure-images/assets/hardware1.png" width="300" alt="lofi" />
-<img src="final-enclosure-images/assets/hardware2.png" width="300" alt="lofi" />
+![lofi](final-enclosure-images/assets/hardware1.png){width=300px}
+![lofi](final-enclosure-images/assets/hardware2.png){width=300px}
 ## Materials
 - The enclosure is 3D printed using PLA plastic for its balance of strength, light weight, and ease of printing.After 3D printing, the enclosure is sanded, primed, and painted with acrylic spray paint for a smooth and durable finish.
 <img src="final-enclosure-images/assets/wand_unpainted.png" width="300" alt="lofi" />

@@ -1,5 +1,5 @@
 # TECHIN515 Magic Wand Project
-<img src="enclosure/final-enclosure-images/assets/wand_final.png" width="300" alt="Final Enclosure" />
+![Final Enclosure](enclosure/final-enclosure-images/assets/wand_final.png)
 This project implements a gesture recognition magic wand using an ESP32, MPU6050 sensor, and Edge Impulse machine learning. The system supports gesture data collection, model training, and real-time gesture inference with visual feedback.
 
 ## Project Structure
